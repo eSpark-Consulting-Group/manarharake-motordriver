@@ -2,7 +2,7 @@
 The project involves being able to control DC Motors using an MCU and also uses FSRs. The PCB is expected to accept input commands over UART from a host system.
 
 ## Project Requirements
-1. The hardware is powered with 7.4v battery
+1. The hardware is powered with 7.4v battery. The battery is not rechargeable, it will be replaceable.
 2. The hardware should be able to drive 6 Motors along with being able to read from the encoder. Datasheet for motor is attached [motor datasheet.pdf](https://github.com/eSpark-Consultants/manarharake-motordriver/files/13066469/motor.datasheet.pdf)
 3. The hardware should also have 5 FSRs. Link to FSRs is here [FSR Sparkfun](https://www.sparkfun.com/products/9673).
 4. Original choice for the MCU by client was the SoC used in Teensy 4.1 but it is most likely out of stock or NRND now. This needs to be rechecked but if not available, then the alternate MCU recommended by client is **MIMXRT106SDVL6B**.
