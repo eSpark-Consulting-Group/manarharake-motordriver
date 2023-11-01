@@ -1,0 +1,10 @@
+BGA Escape Route
+Filename     : C:\Users\eSpark\Desktop\manarharake-motordriver\Design Files\DC-Motor-Driver\DC-Motor-Driver-v1.0.PcbDoc
+Date         : 11/1/2023
+Time         : 5:52:28 PM
+Time Elapsed : 00:00:00
+
+U1
+    Pad U1-M8(939.016mil,693.504mil) on Top Layer on Net USB_D_N
+    Pad U1-L8(939.016mil,725mil) on Top Layer on Net USB_D_P
+count : 2
