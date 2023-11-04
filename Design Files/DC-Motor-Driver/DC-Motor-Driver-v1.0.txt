@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\manarharake-motordriver\Design Files\DC-Motor-Driver\DC-Motor-Driver-v1.0.PcbDoc
-Date         : 11/3/2023
-Time         : 6:28:12 PM
+Date         : 11/4/2023
+Time         : 6:58:41 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 56.80%
-    Connections, 412
-    Connections routed, 234
-    Connections remaining, 178
+    Routing completion, 80.20%
+    Connections, 404
+    Connections routed, 324
+    Connections remaining, 80
 count : 4
