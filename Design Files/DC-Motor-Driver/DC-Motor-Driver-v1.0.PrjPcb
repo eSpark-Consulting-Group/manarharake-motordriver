@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for DC-Motor-Driver-v1.0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -115,23 +115,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IXVDAGLX
 
 [Document5]
-DocumentPath=DC-Motor-Driver.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=DC-Motor-Driver-v1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNDFRDPK
 
-[Document7]
+[Document6]
 DocumentPath=DC-Motor-Driver-v1.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -164,6 +147,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DC-Motor-Driver-v1.0\Design Rule Check - DC-Motor-Driver-v1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -212,7 +199,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for DC-Motor-Driver-v1.0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
