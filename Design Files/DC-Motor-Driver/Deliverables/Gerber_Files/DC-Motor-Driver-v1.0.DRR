@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC-Motor-Driver-v1.0.PcbDoc   11/7/2023  9:42:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC-Motor-Driver-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : DC-Motor-Driver-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             343       PTH        26.20inch (665.48mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.60inch (15.33mm)
+T3      22mil (0.55mm)                                            Slot              2         PTH        0.43inch (10.90mm)
+T4      35mil (0.9mm)                                             Round             2         PTH        0.10inch (2.54mm)
+T5      71mil (1.8mm)                                             Round             2         PTH        0.16inch (3.96mm)
+T6      79mil (2mm)                                               Round             4         NPTH       4.37inch (111.07mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              355
+
+Total Processing Time (hh:mm:ss) : 00:00:01
