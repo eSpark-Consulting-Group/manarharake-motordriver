@@ -2,118 +2,54 @@
 FileName = DC-Motor-Driver-v1.0.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board_Outline
-      File : DC-Motor-Driver-v1.0.GM2
+Generating : Top Paste
+      File : DC-Motor-Driver-v1.0.GTP
 
-    Adding Layer      : Board_Outline
+    Adding Layer      : Top Paste
 
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : DC-Motor-Driver-v1.0.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DC-Motor-Driver-v1.0.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D12
-    D111
-    D253
-    D254
-    D255
-    D256
-    D257
-    D258
-    D259
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : DC-Motor-Driver-v1.0.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D17
+    D18
+    D19
     D20
+    D21
     D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
     D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
     D38
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DC-Motor-Driver-v1.0.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D57
-    D68
-    D69
-    D70
-    D77
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D237
-    D238
-    D239
-    D240
-    D241
-    D242
-    D243
-    D244
-    D245
-    D246
-    D247
-    D248
-    D249
-    D250
-    D251
-    D252
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
 *************************************************************
 
 *************************************************************
@@ -174,292 +110,6 @@ Used DCodes :
     D97
     D98
     D99
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : DC-Motor-Driver-v1.0.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DC-Motor-Driver-v1.0.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : DC-Motor-Driver-v1.0.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : DC-Motor-Driver-v1.0.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D22
-    D31
-    D38
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DC-Motor-Driver-v1.0.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D20
-    D22
-    D31
-    D38
-    D100
-    D102
-    D103
-    D104
-    D105
-    D106
-    D108
-    D111
-    D183
-    D184
-    D185
-    D186
-    D187
-    D188
-    D189
-    D190
-    D191
-    D192
-    D193
-    D194
-    D195
-    D196
-    D197
-    D198
-    D199
-    D200
-    D201
-    D202
-    D203
-    D204
-    D205
-    D206
-    D207
-    D208
-    D209
-    D210
-    D211
-    D212
-    D213
-    D214
-    D215
-    D216
-    D217
-    D218
-    D219
-    D220
-    D221
-    D222
-    D223
-    D224
-    D225
-    D226
-    D227
-    D228
-    D229
-    D230
-    D231
-    D232
-    D233
-    D234
-    D235
-    D236
-*************************************************************
-
-*************************************************************
-Generating : Signal 2
-      File : DC-Motor-Driver-v1.0.G2
-
-    Adding Layer      : Signal 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D100
-    D102
-    D103
-    D104
-    D105
-    D106
-    D183
-    D187
-    D188
-    D189
-    D190
-*************************************************************
-
-*************************************************************
-Generating : Signal 1
-      File : DC-Motor-Driver-v1.0.G1
-
-    Adding Layer      : Signal 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D12
-    D100
-    D102
-    D103
-    D104
-    D105
-    D185
-    D189
-    D190
 *************************************************************
 
 *************************************************************
@@ -605,6 +255,356 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Signal 1
+      File : DC-Motor-Driver-v1.0.G1
+
+    Adding Layer      : Signal 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D100
+    D101
+    D102
+    D104
+    D105
+    D185
+    D189
+    D190
+*************************************************************
+
+*************************************************************
+Generating : Board_Outline
+      File : DC-Motor-Driver-v1.0.GM2
+
+    Adding Layer      : Board_Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : DC-Motor-Driver-v1.0.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D31
+    D38
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+*************************************************************
+
+*************************************************************
+Generating : Signal 2
+      File : DC-Motor-Driver-v1.0.G2
+
+    Adding Layer      : Signal 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D100
+    D101
+    D102
+    D104
+    D105
+    D106
+    D183
+    D187
+    D188
+    D189
+    D190
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DC-Motor-Driver-v1.0.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D20
+    D22
+    D31
+    D38
+    D100
+    D101
+    D102
+    D104
+    D105
+    D106
+    D108
+    D111
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DC-Motor-Driver-v1.0.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D57
+    D68
+    D69
+    D70
+    D77
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DC-Motor-Driver-v1.0.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D22
+    D31
+    D38
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+    D199
+    D200
+    D201
+    D202
+    D203
+    D204
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DC-Motor-Driver-v1.0.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DC-Motor-Driver-v1.0.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D111
+    D253
+    D254
+    D255
+    D256
+    D257
+    D258
+    D259
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DC-Motor-Driver-v1.0.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : DC-Motor-Driver-v1.0.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+*************************************************************
+
+*************************************************************
 Generating : Drill Drawing
       File : DC-Motor-Driver-v1.0.GD1
 
@@ -615,7 +615,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D105
+    D101
     D106
     D260
     D261

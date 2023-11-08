@@ -4,9 +4,9 @@ C:\Users\LiberDB\Documents\GitHub\manarharake-motordriver\Design Files\DC-Motor-
 ========================================================================================================================
 File Design Information:
 
-Date:       07/11/23
-Time:       21:36
-Revision:   f1231a5dfc9ba830bd494617092cd0c0d901268d
+Date:       08/11/23
+Time:       20:43
+Revision:   71cfc1bcfd3c5897b0321ca7a370fe41a98300f8
 Variant:    No variations
 Units used: mm
 
