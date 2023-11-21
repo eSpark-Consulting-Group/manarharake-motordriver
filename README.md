@@ -9,6 +9,7 @@ The project involves being able to control DC Motors using an MCU and also uses 
 5. The hardware should allow for sending commands via UART from a host system (or host MCU)
 6. There should be means to save Encoders last value in case of power outage. For example, if the encoder was at "x" value and power gets cut, the system should be able to reboot from this same previous and drive from this points onwards and not from the start / reset. Please check if the encoder somehow directly supports this. If not, please see if having a small backup coin cell is sufficient or we would need some other means such as SD card etc?
 7. FSR, Motors, Encoders: solder Pads (SMD); Battery: through holes
+8. The circuit should have rechargeable RTC coin cell for storing encoder values.
 
 ### PCB Requirements
 1. The PCB should be 5cm x 4cm in dimensions
