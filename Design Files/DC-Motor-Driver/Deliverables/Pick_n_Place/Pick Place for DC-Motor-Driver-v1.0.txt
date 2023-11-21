@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\manarharake-motordriver\Design Files\DC-Motor-Driver\Project Outputs for DC-Motor-Driver-v1.0\Pick Place for DC-Motor-Driver-v1.0.txt
+C:\Users\eSpark\Desktop\manarharake-motordriver\Design Files\DC-Motor-Driver\Project Outputs for DC-Motor-Driver-v1.0\Pick Place for DC-Motor-Driver-v1.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       08/11/23
-Time:       20:43
-Revision:   71cfc1bcfd3c5897b0321ca7a370fe41a98300f8
+Date:       21/11/23
+Time:       18:25
+Revision:   e18e1ca8f74e4bff0456c9d76874f767ad6b7878
 Variant:    No variations
 Units used: mm
 
@@ -18,8 +18,8 @@ C4         TopLayer    22,4039mm    14,1224mm    90       22,4039mm 14,1224mm 22
 C5         TopLayer    23,4072mm    14,1224mm    90       23,4072mm 14,1224mm 23,4072mm 13,6525mm 
 C6         TopLayer    24,4105mm    14,1224mm    90       24,4105mm 14,1224mm 24,4105mm 13,6525mm 
 C7         TopLayer    25,4138mm    14,1224mm    90       25,4138mm 14,1224mm 25,4138mm 13,6525mm 
-C8         BottomLayer 27,9019mm    13,8430mm    180      27,9019mm 13,8430mm 28,3718mm 13,8430mm 
-C9         BottomLayer 27,9019mm    14,8590mm    180      27,9019mm 14,8590mm 28,3718mm 14,8590mm 
+C8         BottomLayer 26,9621mm    13,8430mm    0        26,9621mm 13,8430mm 26,4922mm 13,8430mm 
+C9         BottomLayer 26,9621mm    14,8590mm    0        26,9621mm 14,8590mm 26,4922mm 14,8590mm 
 C10        TopLayer    31,1150mm    15,9512mm    90       31,1150mm 15,9512mm 31,1150mm 15,4813mm 
 C11        TopLayer    30,1244mm    15,9512mm    90       30,1244mm 15,9512mm 30,1244mm 15,4813mm 
 C12        BottomLayer 25,8572mm    18,4912mm    90       25,8572mm 18,4912mm 25,8572mm 18,0213mm 
@@ -80,12 +80,13 @@ C66        TopLayer    39,2938mm    16,1544mm    180      39,2938mm 16,1544mm 40
 C67        TopLayer    36,2204mm    24,7650mm    0        36,2204mm 24,7650mm 35,4584mm 24,7650mm 
 C68        TopLayer    37,0078mm    27,5844mm    270      37,0078mm 27,5844mm 37,0078mm 28,0543mm 
 C69        TopLayer    35,4838mm    28,0162mm    270      35,4838mm 28,0162mm 35,4838mm 28,7782mm 
-D1         TopLayer    33,0200mm    17,8816mm    180      33,0200mm 17,8816mm 33,6700mm 18,9816mm 
+D1         BottomLayer 15,0556mm    1,1430mm     0        15,0556mm 1,1430mm  13,0556mm 1,1430mm  
 D2         BottomLayer 36,6268mm    4,1148mm     0        36,6268mm 4,1148mm  34,6268mm 4,1148mm  
 D3         BottomLayer 40,9354mm    12,5882mm    270      40,9354mm 12,5882mm 41,9354mm 13,5382mm 
 D4         TopLayer    42,4688mm    11,6078mm    0        42,4688mm 11,6078mm 42,2688mm 11,6078mm 
 D5         BottomLayer 33,6296mm    10,1092mm    90       33,6296mm 10,1092mm 33,6296mm 8,1092mm  
-D6         TopLayer    32,5374mm    14,2924mm    0        32,5374mm 14,2924mm 31,8874mm 13,1924mm 
+D6         BottomLayer 7,4676mm     2,1844mm     0        7,4676mm  2,1844mm  5,8926mm  2,1844mm  
+D7         TopLayer    33,6296mm    15,9512mm    90       33,6296mm 15,9512mm 33,6296mm 13,9512mm 
 F1         TopLayer    16,2814mm    12,9032mm    0        16,2814mm 12,9032mm 15,4314mm 12,9032mm 
 FB1        TopLayer    18,2764mm    14,2296mm    90       18,2764mm 14,2296mm 18,2764mm 13,8796mm 
 FB2        TopLayer    16,1798mm    15,2146mm    0        16,1798mm 15,2146mm 15,8298mm 15,2146mm 
@@ -126,6 +127,7 @@ R16        TopLayer    36,1950mm    26,0350mm    0        36,1950mm 26,0350mm 35
 R17        TopLayer    42,9006mm    28,1178mm    90       42,9006mm 28,1178mm 42,9006mm 27,3558mm 
 R18        BottomLayer 37,4650mm    8,1534mm     0        37,4650mm 8,1534mm  36,9951mm 8,1534mm  
 R19        TopLayer    34,7472mm    32,6898mm    180      34,7472mm 32,6898mm 35,5092mm 32,6898mm 
+R20        BottomLayer 13,0803mm    4,0166mm     90       13,0803mm 4,0166mm  13,0803mm 3,2546mm  
 R21        TopLayer    35,4838mm    30,7086mm    90       35,4838mm 30,7086mm 35,4838mm 29,9466mm 
 R22        BottomLayer 4,2244mm     34,0904mm    90       4,2244mm  34,0904mm 4,2244mm  33,8154mm 
 SW1        TopLayer    41,3022mm    37,2110mm    180      41,3022mm 37,2110mm 43,0022mm 37,2110mm 

@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: DC-Motor-Driver-v1.0.GBR   11/8/2023  8:36:52 PM
+Gerber File Extension Report For: DC-Motor-Driver-v1.0.GBR   11/21/2023  6:58:20 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -17,6 +17,7 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM2                Board_Outline                           
+.GM15               Fabrication                             
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
