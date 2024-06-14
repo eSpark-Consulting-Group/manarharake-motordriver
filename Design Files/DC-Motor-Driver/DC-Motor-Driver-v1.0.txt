@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : S:\manarharake-motordriver\Design Files\DC-Motor-Driver\DC-Motor-Driver-v1.0.PcbDoc
-Date         : 6/12/2024
-Time         : 6:00:26 PM
+Date         : 6/14/2024
+Time         : 7:21:33 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 48.64%
-    Connections, 623
-    Connections routed, 303
-    Connections remaining, 320
+    Routing completion, 61.75%
+    Connections, 630
+    Connections routed, 389
+    Connections remaining, 241
 count : 4
