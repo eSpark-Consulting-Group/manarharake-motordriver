@@ -98,23 +98,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IXVDAGLX
 
 [Document4]
-DocumentPath=DC-Motor-Driver-v2.0.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=Motor_Section.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +114,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=Controller_Fuses_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +131,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJQAGNVV
 
-[Document7]
+[Document6]
 DocumentPath=DC-Motor-Driver-v2.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -165,7 +148,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WNDFRDPK
 
-[Document8]
+[Document7]
 DocumentPath=Sheet1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -182,7 +165,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=Controller_Fuses_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -199,7 +182,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Top-Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
