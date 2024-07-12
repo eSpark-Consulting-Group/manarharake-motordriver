@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DC-Motor-Driver-v2.0.PcbDoc   6/29/2024  9:43:47 AM
+NCDrill File Report For: DC-Motor-Driver-v2.0.PcbDoc   7/12/2024  7:33:13 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,17 +8,17 @@ ASCII SlotHoles File : DC-Motor-Driver-v2.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             160       PTH        16.27inch (413.36mm)
-T2      12mil (0.3mm)                                             Round             221       PTH        20.22inch (513.54mm)
-T3      20mil (0.5mm)                                             Round             10        PTH        0.28inch (7.20mm)
+T1      8mil (0.2mm)                                              Round             179       PTH        15.43inch (391.81mm)
+T2      12mil (0.3mm)                                             Round             261       PTH        24.42inch (620.31mm)
+T3      20mil (0.5mm)                                             Round             28        PTH        0.85inch (21.60mm)
 T4      20mil (0.5mm)                                             Slot              2         PTH        0.60inch (15.33mm)
 T5      22mil (0.55mm)                                            Slot              2         PTH        0.43inch (10.90mm)
-T6      26mil (0.65mm)                                            Round             18        PTH        2.31inch (58.68mm)
-T7      39mil (1mm)                                               Round             56        PTH        7.03inch (178.49mm)
+T6      26mil (0.65mm)                                            Round             18        PTH        2.12inch (53.78mm)
+T7      39mil (1mm)                                               Round             48        PTH        5.69inch (144.41mm)
 T8      71mil (1.8mm)                                             Round             4         PTH        0.52inch (13.29mm)
-T9      20mil (0.5mm)                                             Round             2         NPTH       0.35inch (8.80mm)
-T10     79mil (2mm)                                               Round             3         NPTH       4.99inch (126.65mm)
+T9      20mil (0.5mm)                                             Round             3         NPTH       0.06inch (1.60mm)
+T10     79mil (2mm)                                               Round             3         NPTH       4.91inch (124.84mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              478
+Totals                                                                              548
 
 Total Processing Time (hh:mm:ss) : 00:00:00

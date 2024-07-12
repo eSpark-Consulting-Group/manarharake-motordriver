@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\MarsVirgo\Documents\GitHub\manarharake-motordriver\Design Files\DC-Motor-Driver\DC-Motor-Driver-v2.0.PcbDoc
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\manarharake-motordriver\Design Files\DC-Motor-Driver\DC-Motor-Driver-v2.0.PcbDoc
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
 RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=7.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
