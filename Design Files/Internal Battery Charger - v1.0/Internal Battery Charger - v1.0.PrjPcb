@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for Internal Battery Charger - v1.0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -208,14 +208,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Internal Battery Charger - v1.0\PCB_Internal Battery charger.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Internal Battery Charger - v1.0\Pick Place for PCB_Internal Battery charger.csv
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Internal Battery Charger - v1.0\Pick Place for PCB_Internal Battery charger.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -263,7 +255,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Internal Battery Charger - v1.0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
