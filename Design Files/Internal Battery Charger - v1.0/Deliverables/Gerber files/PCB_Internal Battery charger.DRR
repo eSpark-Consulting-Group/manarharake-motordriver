@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Internal Battery charger.PcbDoc   03/12/2024  12:10:09 pm
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Internal Battery charger-RoundHoles.TXT
+ASCII SlotHoles File : PCB_Internal Battery charger-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             50        PTH        65.33mm (2.57inch)
+T2      0.6mm (24mil)                                             Slot              2         PTH        18.39mm (0.72inch)
+T3      1.8mm (71mil)                                             Round             2         PTH        5.00mm (0.20inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              54
+
+Total Processing Time (hh:mm:ss) : 00:00:00

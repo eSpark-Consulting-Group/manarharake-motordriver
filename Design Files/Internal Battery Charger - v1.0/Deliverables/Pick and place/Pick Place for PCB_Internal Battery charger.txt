@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\manarharake-motordriver\Design Files\Internal Battery Charger - v1.0\Project Outputs for Internal Battery Charger - v1.0\Pick Place for PCB_Internal Battery charger.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/12/24
+Time:       15:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                    Layer       Footprint                   Center-X(mm) Center-Y(mm) Rotation Description                                                                                    Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+J1         "TYPE-C 16PFS LTH6.8 IPX8" BottomLayer TYPE-C_16PFS_LTH6.8_IPX8    5.9850mm     2.5653mm     180      "USB 3.1 3A 1 Standing paste 16P Mother -35?~+85? Type-C SMD USB Connectors ROHS"              5.9850mm  2.5653mm  8.9850mm  3.3653mm  
+R1         560R                       BottomLayer Res-0402                    2.7051mm     7.0485mm     0        "RES 560 OHM 1% 1/16W 0402"                                                                    2.7051mm  7.0485mm  2.2352mm  7.0485mm  
+F1         CF06V2T3R15                TopLayer    Fuse-0603                   1.8415mm     0.9017mm     0        "50A SMD Fuse 3.15A 24V 0603 Disposable fuses ROHS"                                            1.8415mm  0.9017mm  0.9915mm  0.9017mm  
+R8         1.33M                      TopLayer    Res-0402                    8.6360mm     6.0706mm     0        "62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 1.33MO 0402 Chip Resistor - Surface Mount ROHS" 8.6360mm  6.0706mm  8.1661mm  6.0706mm  
+R7         7.87K                      BottomLayer Res-0402                    5.5499mm     5.9182mm     270      "RES SMD 7.87KOHM 0.1% 1/16W 0402"                                                             5.5499mm  5.9182mm  5.5499mm  6.3881mm  
+R5         5.23K                      BottomLayer Res-0402                    4.5593mm     6.2103mm     90       "RES SMD 5.23K OHM 1% 1/16W 0402"                                                              4.5593mm  6.2103mm  4.5593mm  5.7404mm  
+L1         2.2uH                      TopLayer    XRTC404030S2R2MGCA          8.0264mm     10.9855mm    0        "9A 2.2uH ±20% 10.5A SMD,4x4mm Power Inductors ROHS  IR 19/22mOhm"                             8.0264mm  10.9855mm 6.7264mm  10.9855mm 
+J3         XT30UPB-M                  BottomLayer XT30UPB-M                   6.0306mm     15.0368mm    0        Plug                                                                                           6.0306mm  15.0368mm 3.5306mm  15.0368mm 
+C14        2.2uF                      TopLayer    Cap-0402                    2.7051mm     7.0358mm     180      "CAP CER 2.2UF 16V X5R 0402"                                                                   2.7051mm  7.0358mm  3.1750mm  7.0358mm  
+C11        10uF                       TopLayer    Cap-0805                    9.0551mm     7.8486mm     0        "CAP CER 10UF 16V X7R 0805"                                                                    9.0551mm  7.8486mm  8.0391mm  7.8486mm  
+R6         DNP                        TopLayer    Res-0201                    2.2225mm     3.7973mm     0        "50mW Thick Film Resistors 25V ±1% ±200ppm/? 75kO 0201 Chip Resistor - Surface Mount ROHS"     2.2225mm  3.7973mm  1.9475mm  3.7973mm  
+C1         10uF                       TopLayer    Cap-0603                    3.1496mm     4.7625mm     0        "CAP CER 10UF 25V X5R 0603"                                                                    3.1496mm  4.7625mm  2.3876mm  4.7625mm  
+R4         200K                       TopLayer    Res-0402                    6.9342mm     4.7625mm     0        "RES 200K OHM 0.5% 1/16W 0402"                                                                 6.9342mm  4.7625mm  6.4643mm  4.7625mm  
+LED1       Green                      BottomLayer LED-0402                    2.7813mm     6.0325mm     0        "Green 520~535nm 0402 Light Emitting Diodes (LED) RoHS"                                        2.7813mm  6.0325mm  2.3063mm  6.0325mm  
+D1         PESD12VV1BL,315            TopLayer    DFN1006-2L_(Bi-Directional) 8.2042mm     0.6565mm     180      "TVS DIODE 12VWM 38VC DFN1006-2"                                                               8.2042mm  0.6565mm  8.5292mm  0.6565mm  
+C7         10uF                       TopLayer    Cap-0805                    3.8862mm     10.5156mm    270      "CAP CER 10UF 25V X5R 0805"                                                                    3.8862mm  10.5156mm 3.8862mm  11.5316mm 
+C6         47nF                       TopLayer    Cap-0402                    5.3340mm     9.6774mm     90       "CAP CER 0.047UF 25V X7R 0402"                                                                 5.3340mm  9.6774mm  5.3340mm  9.2075mm  
+C5         2.2uf                      TopLayer    Cap-0402                    2.4638mm     8.4709mm     270      "CAP CER 2.2UF 25V X5R 0402"                                                                   2.4638mm  8.4709mm  2.4638mm  8.9408mm  
+C2         470pF                      TopLayer    Cap-0402                    8.6487mm     5.1054mm     0        "CAP CER 470PF 50V X7R 0402"                                                                   8.6487mm  5.1054mm  8.1788mm  5.1054mm  
+U1         HUSB237-AA001-DN06R        TopLayer    DFN-6L-EP(2x2)              4.0917mm     2.8100mm     270      "DFN-6L-EP(2x2) USB PD ROHS"                                                                   4.0917mm  2.8100mm  4.7417mm  3.8100mm  
+U2         BQ25306RTER                TopLayer    16-WQFN_(3x3)               5.6134mm     6.9342mm     0        "STANDALONE 17-V, 3-A SINGLE CELL"                                                             4.2134mm  7.6842mm  4.2134mm  7.6842mm  
+R3         20K                        TopLayer    Res-0402                    2.7051mm     6.1087mm     0        "RES 20K OHM 1% 1/16W 0402"                                                                    2.7051mm  6.1087mm  2.2352mm  6.1087mm  
