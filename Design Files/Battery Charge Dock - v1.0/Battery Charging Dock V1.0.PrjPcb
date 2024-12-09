@@ -3,7 +3,7 @@ Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
 ReleasesFolder=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component$ChannelAlpha
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -100,40 +100,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TXBNARCE
 
 [Document4]
-DocumentPath=Charger_Sheet2.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KDFXSTQQ
-
-[Document5]
-DocumentPath=Charger_Sheet3.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IHHBZXJG
-
-[Document6]
 DocumentPath=Dock_Chrgr.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,6 +115,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QINEHVAD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Battery Charging Dock V1.0\Design Rule Check - Dock_Chrgr.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
